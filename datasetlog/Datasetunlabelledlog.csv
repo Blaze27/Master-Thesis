@@ -1,0 +1,42 @@
+fold num,imgid,feature1,feature2,feature3
+0,testimage/leaf1.jpg,18.0,0,119.39696860313416
+1,Downloads/kama_ingredients_updated_600x400_0071_banyan_leaf.jpg,74.0,0,525.5289993286133
+2,testimage/leaf4.jpg,0.0,0,105.31370830535889
+3,Downloads/kama_ingredients_updated_600x400_0071_banyan_leaf.jpg,74.0,0,525.5289993286133
+4,Apple___Cedar_apple_rust/1d4dee76-8af5-4bce-ba44-ef87ffd664de___FREC_C.Rust 3628_final_masked.jpg,30.0,0,283.90663504600525
+5,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+6,Downloads/unhealthy_leaf.jpg,270,12.5,81.01219260692596
+7,leaf sampler/leaf3.jpg,768,994.0,102.32590091228485
+8,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+9,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+0,leaf sampler/leaf3.jpg,768,994.0,102.32590091228485
+1,leaf sampler/leaf1.jpg,18.0,0,119.39696860313416
+2,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+3,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+4,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+5,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+6,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+7,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+8,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+9,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+0,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+1,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+2,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+3,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+4,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+5,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+6,Tomato___Spider_mites Two-spotted_spider_mite/0a1c03ea-1a2d-449e-bcc4-4a8b62febf88___Com.G_SpM_FL 9433_final_masked.jpg,778.5,0,120.81118214130402
+7,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)/0b19e488-1361-49b9-a5bc-b47d5bd8207c___FAM_L.Blight 4587_final_masked.jpg,1369.5,0.0,168.61017167568207
+8,Apple___Apple_scab/5a178d63-372d-48c4-adb8-d616130ba3f0___FREC_Scab 3104_final_masked.jpg,26.5,0,151.92387998104095
+9,Apple___Black_rot/image (3).JPG,31.5,5.0,250.55129659175873
+0,Apple___Apple_scab/image (1).JPG,2016,199.5,182.02438521385193
+1,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+2,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+3,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+4,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+5,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
+6,Apple___Cedar_apple_rust/image (2).JPG,1212.0,414.0,136.71067690849304
+7,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+8,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+9,Downloads/healthy_leaf.jpg,74.0,0,525.5289993286133
+0,Downloads/infected_leaf.jpg,2912,2393.0,199.82337474822998
